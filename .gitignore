@@ -1,2 +1,4 @@
 node_modules
 .env
+readTemps/temps.ino.standard.hex
+readTemps/temps.ino.with_bootloader.standard.hex
